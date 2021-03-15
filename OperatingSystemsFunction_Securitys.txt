@@ -1,0 +1,1 @@
+Another function of the operating system is to provide security to the system. It uses password protection to protect the user data. It also prevents unauthorized access to the system.
