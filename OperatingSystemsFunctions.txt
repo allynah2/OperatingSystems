@@ -1,0 +1,1 @@
+One primary function of the operating system is to control the system performance. It keeps track of the overhealth health of the activities. For example, it tracks the time between the service requests and the system response.
