@@ -1,0 +1,1 @@
+The OS also decides and allocates the processor time and availability to different processes. This process is called scheduling. It keeps track of the status of the processes, and delocated the processor once the job is done.
