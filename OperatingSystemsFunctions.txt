@@ -1,0 +1,1 @@
+One of the primary function of the operating system is to keep and monitor the health of the system. For example, it records the time between service request and the system response. This information will help to troubleshoot problems in future.
